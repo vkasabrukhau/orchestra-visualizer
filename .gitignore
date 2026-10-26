@@ -1,0 +1,15 @@
+# --- Claude Code: personal files, never commit ---
+CLAUDE.local.md
+.claude/settings.local.json
+.claude/agent-memory-local/
+
+# --- project (extend as the stack is chosen) ---
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+.next/
+*.log
+.DS_Store
